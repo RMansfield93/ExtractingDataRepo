@@ -1,2 +1,3 @@
-print("HTML Download w/ Graphs - Extracting Historical Stock/ Revenue Data")
-file to be deleted
+git add .
+git commit -m "Delete unused file"
+git push origin main
